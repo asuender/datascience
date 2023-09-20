@@ -1,2 +1,2 @@
 # datascience
-My personal datascience repo!
+My personal Data Science repo!
